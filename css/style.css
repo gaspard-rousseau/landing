@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com');
+
+@import url(components/avatar.css);
+@import url(components/container.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body{ 
+	font-family: "Lato", sans-serif;
+  	font-weight: 18px;
+  	font-style: normal;
+}
+h1, h2, h3{
+	font-family: "Barlow", sans-serif;
+  	font-weight: bold;
+  	font-style: normal;
+}
+a{
+	text-decoration:none;
+}
